@@ -21,7 +21,7 @@
 
 ---
 
-## 🎯 Overview
+## Overview
 
 This Drone Survey Management System is designed to simplify and streamline drone operations for large organizations conducting facility inspections, security patrols, and site mapping. The platform provides a centralized interface for mission planning, real-time monitoring, fleet coordination, and comprehensive reporting.
 
@@ -34,7 +34,7 @@ This Drone Survey Management System is designed to simplify and streamline drone
 
 ---
 
-## ✨ Features
+## Features
 
 ### 1. Mission Planning & Configuration
 - **Flight Pattern Generation**: Support for crosshatch and perimeter patterns
@@ -96,7 +96,7 @@ This Drone Survey Management System is designed to simplify and streamline drone
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Node.js (v18 or higher)
