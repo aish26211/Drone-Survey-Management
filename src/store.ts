@@ -1,19 +1,38 @@
 import { create } from 'zustand';
 import type { Drone, Mission } from './types';
 
+/**
+ * Application state interface
+ * Manages global state for drones and missions
+ */
 interface AppState {
+    /** Array of all drones in the fleet */
     drones: Drone[];
+    /** Array of all missions */
     missions: Mission[];
+    /** Currently selected mission for viewing */
     selectedMission: Mission | null;
+
+    /** Set the complete drones array */
     setDrones: (drones: Drone[]) => void;
+    /** Set the complete missions array */
     setMissions: (missions: Mission[]) => void;
+    /** Add a new mission to the array */
     addMission: (mission: Mission) => void;
+    /** Update specific fields of a mission */
     updateMission: (id: string, updates: Partial<Mission>) => void;
+    /** Set the currently selected mission */
     setSelectedMission: (mission: Mission | null) => void;
+    /** Update a drone's operational status */
     updateDroneStatus: (id: string, status: Drone['status']) => void;
+    /** Update a drone's battery level */
     updateDroneBattery: (id: string, battery: number) => void;
 }
 
+/**
+ * Global application store using Zustand
+ * Provides centralized state management for drones and missions
+ */
 export const useStore = create<AppState>((set) => ({
     drones: [],
     missions: [],
