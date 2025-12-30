@@ -4,6 +4,7 @@
 **Author:** Aish Sinha  
 **Assignment:** FlytBase Design Challenge 2025  
 **Live Demo:** https://drone-survey-management-seven.vercel.app/  
+**Demo Video:** https://www.loom.com/share/60da5ad26d784c40a2d9b3229c97dc9e  
 **Repository:** https://github.com/aish26211/Drone-Survey-Management
 
 ---

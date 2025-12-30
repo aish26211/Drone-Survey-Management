@@ -6,6 +6,10 @@
 
 **[View Live Application](https://drone-survey-management-seven.vercel.app/)**
 
+## 🎥 Demo Video
+
+**[Watch Demo Video](https://www.loom.com/share/60da5ad26d784c40a2d9b3229c97dc9e)**
+
 ---
 
 ## 📋 Table of Contents
