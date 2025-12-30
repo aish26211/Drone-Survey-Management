@@ -140,7 +140,7 @@ npm run preview
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 drone-survey-system/
@@ -167,7 +167,7 @@ drone-survey-system/
 
 ---
 
-## 📖 Usage Guide
+## Usage Guide
 
 ### Creating a Mission
 
@@ -209,7 +209,7 @@ drone-survey-system/
 
 ---
 
-## 🎨 Screenshots
+## Screenshots
 
 ### Mission Planning
 Plan missions with customizable flight patterns and parameters.
@@ -225,7 +225,7 @@ Analyze mission data with comprehensive statistics.
 
 ---
 
-## 🔒 Security & Safety
+## Security & Safety
 
 - **Mission Abort**: Immediately stop missions if issues arise
 - **Battery Monitoring**: Track battery levels to prevent mid-flight failures
@@ -234,7 +234,7 @@ Analyze mission data with comprehensive statistics.
 
 ---
 
-## 🌟 Key Highlights
+## Key Highlights
 
 - ✅ **100% TypeScript** - Type-safe codebase
 - ✅ **Responsive Design** - Works on desktop and mobile
@@ -246,7 +246,7 @@ Analyze mission data with comprehensive statistics.
 
 ---
 
-## 📝 License
+## License
 
 This project is developed as part of the FlytBase assignment.
 
@@ -260,7 +260,7 @@ This project is developed as part of the FlytBase assignment.
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - FlytBase for the assignment opportunity
 - React and Leaflet communities for excellent documentation
@@ -268,10 +268,5 @@ This project is developed as part of the FlytBase assignment.
 
 ---
 
-## 📞 Support
 
-For questions or issues, please open an issue in the GitHub repository.
 
----
-
-**Built with ❤️ using React, TypeScript, and modern web technologies**
