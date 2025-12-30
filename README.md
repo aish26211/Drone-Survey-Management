@@ -211,17 +211,25 @@ drone-survey-system/
 
 ## Screenshots
 
+### Fleet Dashboard
+Monitor your entire drone fleet with real-time status, battery levels, and location tracking.
+
+![Fleet Dashboard](screenshots/fleet-dashboard.png)
+
 ### Mission Planning
-Plan missions with customizable flight patterns and parameters.
+Plan missions with customizable flight patterns (crosshatch/perimeter) and adjustable parameters.
+
+![Mission Planning](screenshots/mission-planning.png)
 
 ### Live Monitoring
-Track drone position and mission progress in real-time.
+Track drone position and mission progress in real-time with interactive map visualization.
 
-### Fleet Dashboard
-Monitor your entire drone fleet at a glance.
+![Live Monitoring](screenshots/live-monitoring.png)
 
-### Survey Reports
-Analyze mission data with comprehensive statistics.
+### Mission Control
+Control active missions with pause and abort functionality, view progress and estimated time remaining.
+
+![Mission Control](screenshots/mission-control.png)
 
 ---
 
