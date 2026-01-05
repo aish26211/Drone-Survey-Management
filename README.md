@@ -257,15 +257,7 @@ Control active missions with pause and abort functionality, view progress and es
 - ✅ **Comprehensive Analytics** - Detailed reporting
 
 ---
-
-## License
-
-This project is developed as part of the FlytBase assignment.
-
----
-
 ## 👤 Author
-
 **Aish Sinha**
 ---
 
