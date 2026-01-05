@@ -267,17 +267,6 @@ This project is developed as part of the FlytBase assignment.
 ## 👤 Author
 
 **Aish Sinha**
-- GitHub: [@aish26211](https://github.com/aish26211)
-- Repository: [Drone-Survey-Management](https://github.com/aish26211/Drone-Survey-Management)
-
----
-
-## Acknowledgments
-
-- FlytBase for the assignment opportunity
-- React and Leaflet communities for excellent documentation
-- OpenStreetMap for map tiles
-
 ---
 
 
